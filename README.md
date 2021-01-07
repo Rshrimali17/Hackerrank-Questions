@@ -16,6 +16,7 @@ This repository contains solutions of problems from different domains of `Hacker
 ### Problem Solving (Algorithm and Data structures)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
-|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)| Easy | [Click here]() |   
+|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Solve_Me_First.cpp) |   
+|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)| Easy | [Click here]() |   
 
 > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
