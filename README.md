@@ -18,6 +18,7 @@ This repository contains solutions of problems from different domains of `Hacker
 |---------|------------------|:-------------:|
 |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/40b6778f83f388fd367ddc541d6e21ebb35ab7a0/Problem%20Solving/Solve_Me_First.cpp) |   
 |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/30c7e795b222d58a441e0f101a326e983a05ab07/Problem%20Solving/Simple_array_sum) |   
+|[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/copy-from/194688221)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Flatland_Space_Stations.cpp) |   
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Non_Divisible_subset.cpp) |   
 
 
