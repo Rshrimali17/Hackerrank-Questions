@@ -16,6 +16,6 @@ This repository contains solutions of problems from different domains of `Hacker
 ### Problem Solving (Algorithm and Data structures)
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
-|![cpp]      
+|[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)| Easy | [Click here]() |   
 
 > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
