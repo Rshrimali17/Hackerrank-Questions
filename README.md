@@ -13,5 +13,9 @@
 
 This repository contains solutions of problems from different domains of `HackerRank` that matches my interest. You can see the domains listed below. Most of the problems are solved using - `Python`, `Cpp` & `JavaScript`.
  
+### Problem Solving (Algorithm and Data structures)
+| Problem | Difficulty Level | Solution Link |
+|---------|------------------|:-------------:|
+|![cpp]      
 
-> Find me at HackerRank - [@ybg345](https://www.hackerrank.com/Rshrimali17)
+> Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
