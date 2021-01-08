@@ -25,6 +25,8 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Staircase](https://www.hackerrank.com/challenges/staircase/problem) | Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/staircase.cpp) |
 |[Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/copy-from/194688221)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Flatland_Space_Stations.cpp) |   
 |[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | Easy |[Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/append_delete.cpp) |
+|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Counting_vellys.cpp) |
+|[]| Easy | [Click here]() |
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Non_Divisible_subset.cpp) |   
 
 
