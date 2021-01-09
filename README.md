@@ -27,7 +27,6 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | Easy |[Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/append_delete.cpp) |
 |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Counting_vellys.cpp) |
 |[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?h_r=next-challenge&h_v=zen)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Electronic_shop.cpp) |
-[base ]: <> |[]()| Easy | [Click here]() |
 |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/cats_and_a_mouse.cpp) |
 |[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/ice_cream_parlor.cpp) |
 |[]()| Easy | [Click here]() |
