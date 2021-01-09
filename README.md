@@ -29,6 +29,15 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?h_r=next-challenge&h_v=zen)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Electronic_shop.cpp) |
 |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/cats_and_a_mouse.cpp) |
 |[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/ice_cream_parlor.cpp) |
+|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/mini_max_sum.cpp) |
+|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/birthday_cake.cpp) |
+|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/time_conversion.cpp) |
+|[https://www.hackerrank.com/challenges/grading/problem](https://www.hackerrank.com/challenges/grading/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/grading_students.cpp) |
+|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/number_line_jumps.cpp) |
+|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/breaking_the_records.cpp) |
+|[Sub-array Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/sub_array_division.cpp) |
+|[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Bill_division.cpp) |
+|[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/sales_by_match.cpp) |
 |[]()| Easy | [Click here]() |
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Non_Divisible_subset.cpp) |   
 
