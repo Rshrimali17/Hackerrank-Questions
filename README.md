@@ -32,7 +32,7 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/mini_max_sum.cpp) |
 |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/birthday_cake.cpp) |
 |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/time_conversion.cpp) |
-|[https://www.hackerrank.com/challenges/grading/problem](https://www.hackerrank.com/challenges/grading/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/grading_students.cpp) |
+|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/grading_students.cpp) |
 |[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/number_line_jumps.cpp) |
 |[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/breaking_the_records.cpp) |
 |[Sub-array Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/sub_array_division.cpp) |
@@ -42,4 +42,4 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Non_Divisible_subset.cpp) |   
 
 
-> Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17) 
+> Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
