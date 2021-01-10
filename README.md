@@ -38,7 +38,6 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Sub-array Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/sub_array_division.cpp) |
 |[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Bill_division.cpp) |
 |[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/sales_by_match.cpp) |
-|[]()| Easy | [Click here]() |
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Non_Divisible_subset.cpp) |   
 
 
