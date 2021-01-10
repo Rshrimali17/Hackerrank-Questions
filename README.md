@@ -38,11 +38,12 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Sub-array Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/sub_array_division.cpp) |
 |[Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Bill_division.cpp) |
 |[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/sales_by_match.cpp) |
-|[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Non_Divisible_subset.cpp) |   
 |[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/picking_numbers.cpp) |
 |[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/designer_pdf.cpp) |
 |[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/angry_proffe#L26-L27) |
 |[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/beautiful_day_at_the_movies.cpp#L31-L32) |
-|[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/queens_attack_2.cpp) |
 |[AND Product](https://www.hackerrank.com/challenges/and-product/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/and_product.cpp) |
+|[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/save_the_prisioner.cpp) |
+|[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Non_Divisible_subset.cpp) |   
+|[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/queens_attack_2.cpp) |
 > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
