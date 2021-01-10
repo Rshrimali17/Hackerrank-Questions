@@ -44,6 +44,7 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/beautiful_day_at_the_movies.cpp#L31-L32) |
 |[AND Product](https://www.hackerrank.com/challenges/and-product/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/and_product.cpp) |
 |[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/save_the_prisioner.cpp) |
+|[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/flipping_bits.cpp) |
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Non_Divisible_subset.cpp) |   
 |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/queens_attack_2.cpp) |
 > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
