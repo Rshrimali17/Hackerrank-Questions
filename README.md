@@ -47,7 +47,9 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/flipping_bits.cpp) |
 |[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/c1eefabdf4b396f03f6dd4df6029e9c3fbf1c233/Problem%20Solving/equalize_the_array.cpp#L16) |
 |[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem?h_r=next-challenge&h_v=zen)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/acm_icmp_team.cpp) |
+|[3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem?isFullScreen=false)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/3d_surface_area.cpp) |
 |[]()| Easy | [Click here]() |
+
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Non_Divisible_subset.cpp) |   
 |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/queens_attack_2.cpp) |
 > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
