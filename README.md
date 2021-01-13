@@ -52,5 +52,6 @@ This repository contains solutions of problems from different domains of `Hacker
 |[]()| Easy | [Click here]() |
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Non_Divisible_subset.cpp) |   
 |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/queens_attack_2.cpp) |
+|[Encryption](https://www.hackerrank.com/challenges/encryption/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/encryption.cpp) |
 
 > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
