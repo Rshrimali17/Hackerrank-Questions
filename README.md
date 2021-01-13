@@ -49,7 +49,6 @@ This repository contains solutions of problems from different domains of `Hacker
 |[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem?h_r=next-challenge&h_v=zen)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/acm_icmp_team.cpp) |
 |[3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem?isFullScreen=false)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/3d_surface_area.cpp) |
 |[]()| Easy | [Click here]() |
-
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/Non_Divisible_subset.cpp) |   
 |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem%20Solving/queens_attack_2.cpp) |
 > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
