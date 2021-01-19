@@ -49,6 +49,7 @@ This repository contains solutions of problems from different domains of `Hacker
 |[ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem?h_r=next-challenge&h_v=zen)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/acm_icmp_team.cpp) |
 |[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/apple_and_oranges.cpp) |
 |[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/service_lane.cpp) |
+|[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/Taum_and_B'day.cpp) |
 |[]()| Easy | [Click here]() |
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/Non_Divisible_subset.cpp) |   
 |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/queens_attack_2.cpp) |
