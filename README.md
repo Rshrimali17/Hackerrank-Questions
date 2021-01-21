@@ -51,6 +51,8 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/service_lane.cpp) |
 |[Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/Taum_and_B'day.cpp) |
 |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/jumping_on_the_clouds.cpp#L29-L30) |
+|[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/sherlock_and_squares.cpp#L0-L1) |
+|[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/cut_the_sticks.cpp#L42) |
 |[]()| Easy | [Click here]() |
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/Non_Divisible_subset.cpp) |   
 |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/queens_attack_2.cpp) |
