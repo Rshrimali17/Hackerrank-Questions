@@ -54,7 +54,6 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/sherlock_and_squares.cpp#L0-L1) |
 |[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/cut_the_sticks.cpp#L42) |
 |[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/find_digit.cpp) |
-|[]()| Easy | [Click here]() |
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem) | Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/Non_Divisible_subset.cpp) |   
 |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/queens_attack_2.cpp) |
 |[Encryption](https://www.hackerrank.com/challenges/encryption/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/encryption.cpp) |
@@ -62,3 +61,9 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/stock_maxmize.cpp#L10) |
 
 > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
+
+<!---
+|[]()| Easy | [Click here]() |
+|[]()| Medium | [Click here]() |
+|[]()| Hard | [Click here]() |
+-->
