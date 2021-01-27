@@ -59,5 +59,6 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/queens_attack_2.cpp) |
 |[Encryption](https://www.hackerrank.com/challenges/encryption/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/encryption.cpp) |
 |[3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem?isFullScreen=false)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/3d_surface_area.cpp) |
+|[Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/stock_maxmize.cpp#L10) |
 
 > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
