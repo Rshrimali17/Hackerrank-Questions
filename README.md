@@ -63,6 +63,7 @@ This repository contains solutions of problems from different domains of `Hacker
 
 > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
 
+https://github.com/Rshrimali17/Hackerrank-Questions/blob/038fdce47edd39ae1a9a7fa77cb1f29c6b339be7/Badge/badges.PNG
 <!---
 |[]()| Easy | [Click here]() |
 |[]()| Medium | [Click here]() |
