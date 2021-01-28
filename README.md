@@ -61,11 +61,12 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/stock_maxmize.cpp#L10) |
 |[Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_r=profile)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/paris.cpp#L26-L27) |
 
-> Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
-
-
+### Badges
 
  <img height=150 src="https://github.com/Rshrimali17/Hackerrank-Questions/blob/038fdce47edd39ae1a9a7fa77cb1f29c6b339be7/Badge/badges.PNG">
+
+ > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
+
 <!---
 |[]()| Easy | [Click here]() |
 |[]()| Medium | [Click here]() |
