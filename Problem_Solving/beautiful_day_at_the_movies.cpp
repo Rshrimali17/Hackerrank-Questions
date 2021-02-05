@@ -27,5 +27,4 @@ int reverse (int a)
         a /= 10;
     }
     return rev;
- 
 }
