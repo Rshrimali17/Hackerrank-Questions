@@ -60,7 +60,7 @@ This repository contains solutions of problems from different domains of `Hacker
 |[3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem?isFullScreen=false)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/5068031541ec22797f7aeffd05554d07f0d81993/Problem_Solving/3d_surface_area.cpp) |
 |[Stock Maximize](https://www.hackerrank.com/challenges/stockmax/problem)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/stock_maxmize.cpp#L10) |
 |[Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_r=profile)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/paris.cpp#L26-L27) |
-
+|[Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem?h_r=profile)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/self_balancing_tree.cpp) |
 
  > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
 
