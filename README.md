@@ -66,6 +66,8 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_r=profile)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/paris.cpp#L26-L27) |
 |[Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem?h_r=profile)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/self_balancing_tree.cpp) |
 
+ > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
+
 ### C++
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
