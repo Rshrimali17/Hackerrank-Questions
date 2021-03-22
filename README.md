@@ -73,7 +73,7 @@ This repository contains solutions of problems from different domains of `Hacker
 |---------|------------------|:-------------:|
 |[Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/hello_world.cpp) |
 |[Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/input_and_output.cpp#L15) |
-|[]()| Easy | [Click here]() |
+|[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/basic_data_types.cpp) |
 |[]()| Easy | [Click here]() |
 |[]()| Easy | [Click here]() |
 |[]()| Easy | [Click here]() |
