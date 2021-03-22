@@ -66,8 +66,6 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_r=profile)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/paris.cpp#L26-L27) |
 |[Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem?h_r=profile)| Medium | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/Problem_Solving/self_balancing_tree.cpp) |
 
- > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
-
 ### C++
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
@@ -76,11 +74,12 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/basic_data_types.cpp) |
 |[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/conditional_statments.cpp#L52-L53) |
 |[For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/for_loop.cpp#L11-L12) |
-|[]()| Easy | [Click here]() |
+|[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/function.cpp#L23-L24) |
 |[]()| Easy | [Click here]() |
 |[]()| Easy | [Click here]() |
 |[]()| Easy | [Click here]() |
 
+ > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
 
 <!---
 |[]()| Easy | [Click here]() |
