@@ -75,9 +75,9 @@ This repository contains solutions of problems from different domains of `Hacker
 |[Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/conditional_statments.cpp#L52-L53) |
 |[For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/for_loop.cpp#L11-L12) |
 |[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/function.cpp#L23-L24) |
-|[]()| Easy | [Click here]() |
-|[]()| Easy | [Click here]() |
-|[]()| Easy | [Click here]() |
+|[Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/pointer.cpp#L20-L21) |
+|[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/array.cpp#L13) |
+|[Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/c++/string.cpp#L22-L23) |
 
  > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
 
