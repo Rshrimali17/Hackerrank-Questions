@@ -83,6 +83,12 @@ This repository contains solutions of problems from different domains of `Hacker
 
  > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
 
+
+### C++
+| Problem | Difficulty Level | Solution Link |
+|---------|------------------|:-------------:|
+
+> Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
 <!---
 |[]()| Easy | [Click here]() |
 |[]()| Medium | [Click here]() |
