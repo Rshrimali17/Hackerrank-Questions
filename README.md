@@ -84,7 +84,7 @@ This repository contains solutions of problems from different domains of `Hacker
  > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
 
 
-### C++
+### Java
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
 
