@@ -87,6 +87,8 @@ This repository contains solutions of problems from different domains of `Hacker
 ### Java
 | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
+|[Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)| Easy | [Click here](https://github.com/Rshrimali17/Hackerrank-Questions/blob/master/java/welcome.java#L3) |
+
 
 > Find me at HackerRank - [@Rshrimali17](https://www.hackerrank.com/Rshrimali17)
 <!---
